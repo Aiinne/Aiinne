@@ -34,4 +34,4 @@ Hi, I'm Aine, I'm an 23 y.o Coder.
   <a href="https://github.com/aiinne"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiinne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
-<p><img align="center" <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiinne&" alt="Aiinne" /></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiinne&" alt="Aiinne" /></p>
