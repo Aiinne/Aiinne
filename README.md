@@ -15,6 +15,7 @@ Hi, I'm Aine, I'm an 23 y.o Coder.
 
 <p align='center'>
 - 🌱 I’m currently learnin
+- C++
 </p>
 <p align='center'>
    - C++
