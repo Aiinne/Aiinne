@@ -13,18 +13,14 @@ Hi, I'm Aine, I'm an 23 y.o Coder.
    <a href="https://instagram.com/ainee_bot"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </p>
 
-- 🌱 I’m currently learning
-
+<p align='center'>
+- 🌱 I’m currently learnin
   - C++
-
   - Node JS
-
 🔭 I’m currently working on My Beautiful House
-
- 
-
  ⚡ Fun fact: I really like Indomie
-
+ </p>
+   
  ------
 <p align="center"><a href="https://github.com/Aiinne"><img src="https://github-readme-stats.vercel.app/api?username=Aiinne&show_icons=true&theme=tokyonight"></a></p>
 <p align="center">
