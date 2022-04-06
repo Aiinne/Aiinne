@@ -14,7 +14,7 @@ Hi, I'm Aine, I'm an 23 y.o Coder.
 
    <a href="https://instagram.com/ainee_bot"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 
-</P>
+</p>
 
 - 🌱 I’m currently learning
 
