@@ -15,7 +15,6 @@ Hi, I'm Aine, I'm an 23 y.o Coder.
 
 <p align='center'>
 - 🌱 I’m currently learnin
-- C++
 </p>
 <p align='center'>
    - C++
@@ -23,9 +22,10 @@ Hi, I'm Aine, I'm an 23 y.o Coder.
 <p align='center'>
   - Node JS
 </p>
-   
-   🔭 I’m currently working on My Beautiful House
- 
+<p align='center'>
+🔭 I’m currently working on My Beautiful House
+</p>
+<p align='center'>
    ⚡ Fun fact: I really like Indomie
  </p>
    
