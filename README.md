@@ -15,10 +15,14 @@ Hi, I'm Aine, I'm an 23 y.o Coder.
 
 <p align='center'>
 - 🌱 I’m currently learnin
-  - C++
+
+   - C++
+   
   - Node JS
-🔭 I’m currently working on My Beautiful House
- ⚡ Fun fact: I really like Indomie
+
+   🔭 I’m currently working on My Beautiful House
+ 
+   ⚡ Fun fact: I really like Indomie
  </p>
    
  ------
