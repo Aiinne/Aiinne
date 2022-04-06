@@ -28,9 +28,10 @@ Hi, I'm Aine, I'm an 23 y.o Coder.
 
  ⚡ Fun fact: I really like Indomie
 
- 
-
+ ------
+<p align="center">
 ![Aine github stats](https://github-readme-stats.vercel.app/api?username=Aiinne&show_icons=true&theme=tokyonight) 
+</p>
 <p align="center">
   <a href="https://github.com/aiinne"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiinne&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
