@@ -9,7 +9,7 @@ Hi, I'm Aine, I'm an 23 y.o Coder.
 <br>
 
 <p align='center'>
-   <a href="https://wa.me/62895330379186"><img height="30" src="https://telegra.ph/file/74e742d63924a4b4cd625.jpg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://wa.me/62895330379186"><img height="30" src="https://telegra.ph/file/74e742d63924a4b4cd625.jpg"></a>
 </p>
    
 <p align='center'>
