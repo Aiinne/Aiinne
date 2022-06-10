@@ -1,4 +1,4 @@
-### Hello I am Aine <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px">
+### Hello I am Aine 👋 
 
 ![My card name](https://cardivo.vercel.app/api?name=Aine&description=Hi,%20i%27m%20a%20developer%20end%20back%20and%20i%20am%2023%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/456f00853b6116056be74.jpg)
 
