@@ -1,6 +1,6 @@
 ### Hello I am Aine 👋 
 
-![My card name](https://cardivo.vercel.app/api?name=Aine&description=Hi,%20i%27m%20a%20developer%20end%20back%20and%20i%20am%2023%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/e7b545d2702277bec78f4.jpg)
+![My card name] <img align="center" src="https://github-cardname.caliph.my.id/api?name=Aiinne&description=Hi,%20i%27m%20aine%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/aiinne&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ainee_bot&github=Aiine&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20Aine"/>
 
 ------
 
