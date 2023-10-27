@@ -1,7 +1,7 @@
 ### Hello I am Aine 👋 
 
     
-<img align="center" src="https://cardivo.vercel.app/api?name=Aiinne&description=Hi,%20i%27m%20aine%20and%20i%27m%20just%20a%20newbie%20programmer%20+Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/aiinne&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ainee_bot&github=Aiine&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20Aiinne"/>
+<img align="center" src="https://cardivo.vercel.app/api?name=Aiinne&description=Hi,%20i%27m%20aine%20and%20i%27m%20just%20a%20newbie%20programmer%0ANice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/aiinne&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ainee_bot&github=Aiine&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20Aiinne"/>
 
 ------
 
